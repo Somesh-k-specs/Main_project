@@ -8,4 +8,7 @@ public class Main {
 	void disp() {
 		System.out.println("hi");
 	}
+	void sagar() {
+		System.out.println("hello");
+	}
 }
